@@ -1,1 +1,1 @@
-# P2-Openclassroom
+# booki-starter-pack
